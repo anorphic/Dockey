@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+
+# binaries
+nmap-7.98-setup.exe
+
+# folders
+Screenshots/
+trivy_0.67.0_windows-64bit/
+
+# OS
+Thumbs.db
+.DS_Store
